@@ -1,0 +1,8 @@
+# encoding: utf-8
+
+en:
+  js:
+    login:
+      vkontakte:
+        title: "with VK"
+        message: "Authenticating with VK (make sure pop up blockers are not enabled)"

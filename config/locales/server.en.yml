@@ -1,0 +1,6 @@
+# encoding: utf-8
+
+en:
+  site_settings:
+    vk_client_id: "Client id for VK authentication, registered at http://vk.com/"
+    vk_client_secret: "Client secret for VK authentication, registered at http://vk.com/"

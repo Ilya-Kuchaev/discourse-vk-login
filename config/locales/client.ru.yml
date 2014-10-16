@@ -1,0 +1,8 @@
+# encoding: utf-8
+
+ru:
+  js:
+    login:
+      vkontakte:
+        title: "с помощью VK"
+        message: "Аутентификация с помощью VK (убедитесь, что всплывающие окна разрешены)"

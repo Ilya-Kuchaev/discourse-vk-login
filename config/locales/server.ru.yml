@@ -1,0 +1,6 @@
+# encoding: utf-8
+
+ru:
+  site_settings:
+    vk_client_id: "Client_id, зарегистрированный в http://vk.com/"
+    vk_client_secret: "Client_secret, зарегистрированный http://vk.com/"

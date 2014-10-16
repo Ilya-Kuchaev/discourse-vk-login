@@ -1,0 +1,5 @@
+login:
+  vk_client_id:
+    default: ''
+  vk_client_secret:
+    default: ''
