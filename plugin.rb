@@ -63,7 +63,7 @@ register_css <<CSS
 }
 
 .btn-social.vkontakte:before {
-  content: "\f189";
+  content: $fa-var-vk;
 }
 
 CSS
