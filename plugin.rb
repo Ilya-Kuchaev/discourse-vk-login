@@ -53,8 +53,7 @@ auth_provider :frame_width => 920,
               :frame_height => 800,
               :authenticator => VkAuthenticator.new
 
-# We ship with zocial, it may have an icon you like 
-http://zocial.smcllns.com/sample.html
+# We ship with zocial, it may have an icon you like http://zocial.smcllns.com/sample.html
 #  in our current case we have an icon for vk
 
 register_css <<CSS
